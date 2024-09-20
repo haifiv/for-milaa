@@ -7,7 +7,7 @@ const kalimat = [
     " terserah si kalo engga percaya juga hehe",
     " tapi yang jelas haidar engga ingkar janji sama milaa",
     " haidar cuma mau ngomong beberapa kata buat mila",
-    " selamat ulang tahun mila, semoga mila menjadi anak yang bisa diandalkan dimanapun,dan semoga di usia baru ini milaa lebih bahagaia menjali keseharian nya"
+    " selamat ulang tahun mila, semoga mila bisa menjadi anak yang dapat diandalkan dimanapun,dan semoga di usia baru ini milaa bisa lebih bahagia menjalani keseharian nya,terus semoga apa yang milaa inginkan segera tercapai"
 ];
 
 let index = 0;
