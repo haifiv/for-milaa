@@ -3,7 +3,7 @@ const kalimat = [
     " Allhamdulillah kalau sehat :)",
     " Syafakillah Kalo sakit, semoga cepat sembuh yaa",
     " milaa masih inget janji haidar ngaa?",
-    " haidar engga ingkar tau sama janji aku",
+    " haidar engga ingkar tau sama yang apa haidar janjikan",
     " terserah si kalo engga percaya juga hehe",
     " tapi yang jelas haidar engga ingkar janji sama milaa",
     " haidar cuma mau ngomong beberapa kata buat mila",
